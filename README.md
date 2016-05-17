@@ -1,4 +1,4 @@
-# LiquidCrystal_SSD1306
+# LiquidCrystal_SSD1306 [![Build Status](https://travis-ci.org/McNeight/LiquidCrystal_SSD1306.svg?branch=master)](https://travis-ci.org/McNeight/LiquidCrystal_SSD1306)
 
 Developed by [Neil McNeight](https://github.com/McNeight) based on Arduino and other Open Source libraries.
 
@@ -28,7 +28,7 @@ It was originally designed to be a small library for ATtiny85-based boards (Trin
 Tested with
 
 1. [Adafruit Monochrome 0.96" 128x64 OLED graphic display](https://www.adafruit.com/products/326)
-2. [Sabernetics Tech Electronics 0.84" OLED Display 96×16](http://sabernetics.com/store/0-84-oled-display-96x16/)
+2. [Sabernetics Tech Electronics 0.84" OLED Display 96ï¿½16](http://sabernetics.com/store/0-84-oled-display-96x16/)
 3. [SainSmart 0.69" I2C IIC Serial 96X16 White OLED Module](http://www.amazon.com/SainSmart-Serial-96X16-Module-Arduino/dp/B00MQLI09Y)
 
 ## History
@@ -50,7 +50,7 @@ License as published by the Free Software Foundation; either version 2.1 of the 
 version.
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
 warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public
-License for more details.	
+License for more details.
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the
 Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 ```
@@ -59,8 +59,8 @@ Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-13
   * "3-clause BSD license" or Modified BSD license
 
 ```
-Adafruit invests time and resources providing this open source code, 
-please support Adafruit and open-source hardware by purchasing 
+Adafruit invests time and resources providing this open source code,
+please support Adafruit and open-source hardware by purchasing
 products from Adafruit!
 
 Written by Limor Fried/Ladyada for Adafruit Industries.
@@ -68,6 +68,6 @@ Scrolling code contributed by Michael Gregg
 BSD license, check bsd-license-adafruit.txt for more information
 All text above must be included in any redistribution
 ```
-	
+
 * [pocketmoon SSD1306NoBuffer library](https://github.com/pocketmoon/SSD1306NoBuffer)
   * No license given, and no copyright listed.
