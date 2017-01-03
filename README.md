@@ -71,3 +71,8 @@ All text above must be included in any redistribution
 
 * [pocketmoon SSD1306NoBuffer library](https://github.com/pocketmoon/SSD1306NoBuffer)
   * No license given, and no copyright listed.
+  * Derived from work by Kalle Hyvönen, http://www.dgkelectronics.com
+
+* [Hyvok SSD1306-display-driver-for-Arduino library](https://github.com/Hyvok/SSD1306-display-driver-for-Arduino)
+  * No license given, and no copyright listed.
+  * Documented by Kalle Hyvönen at http://www.dgkelectronics.com/library-for-controlling-ssd1306-based-oled-displays/
